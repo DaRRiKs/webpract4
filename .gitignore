@@ -1,0 +1,6 @@
+bin/
+obj/
+.idea/
+.venv/
+*.db-shm
+*.db-wal
